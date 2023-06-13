@@ -65,7 +65,6 @@ span {
 ul {
     font-size: large;
 }
-
 li ::marker {
     color: grey;
 }
