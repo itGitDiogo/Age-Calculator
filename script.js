@@ -21,7 +21,6 @@ function calculate() {
     document.querySelector('#seconds').innerHTML = Math.floor(ageInS % 60);
     document.querySelector('#seconds').style.borderBottom = '1px grey solid';
     }, 1000);
-
 }
 
 function reset() {
